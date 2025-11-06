@@ -1,0 +1,2 @@
+Este juego de rompecabezas o puzzle lo he transcrito atendiendo la orientación de @CodingTube - David Ruiz Developer, a través de los tutoriales ubicados en: https://www.youtube.com/watch?v=OZvEiNDSV-U&list=PLJubkp8BnTJvdLT0K7lPfYeIyqGGD0eIZ&index=1.
+Me parece muy atinente cuando se dispone de un conocimiento básico, previo acerca de la programación en HTML, JS y CSS; sinembargo, para iniciar a aprender programación en JS acompañado de la parte visual de HTML Y CSS, puede ser un poco confuso. 
